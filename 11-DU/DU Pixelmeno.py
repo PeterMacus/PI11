@@ -83,17 +83,17 @@ canvas.create_rectangle(x+24*d,y,x+25*d,y+4*d)
 canvas.create_rectangle(x+24*d,y,x+25*d,y+5*d)
 canvas.create_rectangle(x+24*d,y,x+25*d,y+6*d)
 canvas.create_rectangle(x+24*d,y,x+25*d,y+7*d)
-
-
-
-
-
-
-
-
-
-
-
+canvas.create_rectangle(x+25*d,y,x+26*d,y+1*d)
+canvas.create_rectangle(x+26*d,y,x+27*d,y+1*d)
+canvas.create_rectangle(x+27*d,y,x+28*d,y+1*d)
+canvas.create_rectangle(x+28*d,y+2*d,x+29*d,y+1*d)
+canvas.create_rectangle(x+28*d,y+3*d,x+29*d,y+1*d)
+canvas.create_rectangle(x+25*d,y+3*d,x+26*d,y+4*d)
+canvas.create_rectangle(x+26*d,y+3*d,x+27*d,y+4*d)
+canvas.create_rectangle(x+27*d,y+3*d,x+28*d,y+4*d)
+canvas.create_rectangle(x+26*d,y+4*d,x+27*d,y+5*d)
+canvas.create_rectangle(x+27*d,y+5*d,x+28*d,y+6*d)
+canvas.create_rectangle(x+28*d,y+6*d,x+29*d,y+7*d)
 
 
 

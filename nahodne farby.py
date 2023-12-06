@@ -9,7 +9,7 @@ vek = 255
 
 print("Volám sa",meno,"",priezvisko)
 print(f"Volam sa {meno} {priezvisko} a mam {vek:02x} rokov")#vek:02x , prevedie do 16 sustavy
-polomer = 10
+polomer = 20
 for i in range(20):
     x = random.randint(2, 480)
     y = random.randint(2,480)

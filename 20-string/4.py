@@ -9,5 +9,5 @@ for i in slovo:
     else:
         sp += 1
 
-print(f"Samoglasky: {sa}")
-print(f"Spoluhlasky: {sp}")
+print(f"Samohlasky: {sa}")
+print(f"Spoluhlasky: {sp}")000
